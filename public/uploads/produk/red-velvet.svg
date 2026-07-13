@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450" viewBox="0 0 600 450">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFF8F0"/>
+      <stop offset="1" stop-color="#C1666B"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#g)"/>
+  <ellipse cx="300" cy="250" rx="170" ry="110" fill="#C1666B" stroke="#8B5E3C" stroke-width="6"/>
+  <ellipse cx="300" cy="235" rx="140" ry="85" fill="#FFFFFF" opacity="0.25"/>
+  <circle cx="250" cy="220" r="8" fill="#8B5E3C" opacity="0.5"/>
+  <circle cx="310" cy="205" r="7" fill="#8B5E3C" opacity="0.5"/>
+  <circle cx="350" cy="240" r="9" fill="#8B5E3C" opacity="0.5"/>
+  <text x="300" y="390" font-family="Georgia, serif" font-size="34" font-weight="bold"
+        fill="#8B5E3C" text-anchor="middle">Red Velvet</text>
+  <text x="300" y="60" font-family="Georgia, serif" font-size="22"
+        fill="#D4A373" text-anchor="middle">Sweet Bakery</text>
+</svg>

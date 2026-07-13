@@ -1,0 +1,9 @@
+<!-- Logo ini dapat diganti dengan logo toko Anda -->
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <path d="M8 30c0-8 7-14 16-14s16 6 16 14c0 3-2 5-5 5H13c-3 0-5-2-5-5z"
+        fill="#D4A373" stroke="#8B5E3C" stroke-width="2.5"/>
+  <path d="M16 22c0-3 3-5 8-5s8 2 8 5" fill="none" stroke="#8B5E3C" stroke-width="2" stroke-linecap="round"/>
+  <line x1="20" y1="20" x2="18" y2="30" stroke="#8B5E3C" stroke-width="1.5"/>
+  <line x1="28" y1="20" x2="30" y2="30" stroke="#8B5E3C" stroke-width="1.5"/>
+  <line x1="24" y1="19" x2="24" y2="30" stroke="#8B5E3C" stroke-width="1.5"/>
+</svg>
