@@ -11,7 +11,7 @@
 > |-------|-------|----------|----------|
 > | 👑 **Admin** | `azir@sweetbakery.com` | `sweetbakery123` | `/admin/login` |
 > | 🧾 **Kasir** | `kasir@sweetbakery.com` | `kasir123` | `/admin/login` |
-> | 👤 **User** | `dimas@mail.com` | `user123` | `/auth/login` |
+> | 👤 **User** | `sumanto@ganteng.com` | `sumanto` | `/auth/login` |
 >
 > 📄 Panduan lengkap + alur uji coba: **[PANDUAN-DOSEN.md](PANDUAN-DOSEN.md)**
 
