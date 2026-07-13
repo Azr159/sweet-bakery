@@ -56,8 +56,7 @@ Buka browser: **http://localhost:8080** — selesai!
 |-------|-----------------------|----------------|--------------|
 | Admin | azir@sweetbakery.com  | sweetbakery123 | /admin/login |
 | Kasir | kasir@sweetbakery.com | kasir123       | /admin/login |
-| User  | dimas@mail.com        | user123        | /auth/login  |
-| User  | siti@mail.com         | user123        | /auth/login  |
+| User  | sumanto@ganteng.com   | sumanto        | /auth/login  |
 
 **Peran:**
 - **Admin** — akses penuh: produk, kategori, user, pesanan, dan Rekap Data (bisa diunduh).
